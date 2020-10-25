@@ -48,5 +48,4 @@ def selects_the_category_name_and_the_sum_total_of_the_all_its_pledges_for_the_b
   INNER JOIN pledges
     ON projects.id = pledges.project_id
     WHERE projects.category = 'books' "
-  #select the category name and the sum total of all it's pledges for the books category
 end

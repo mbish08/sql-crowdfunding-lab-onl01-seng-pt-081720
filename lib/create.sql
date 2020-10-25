@@ -15,4 +15,4 @@ age INTEGER
 
 CREATE TABLE pledges (
 id INTEGER PRIMARY KEY,
-)
+);

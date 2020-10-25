@@ -23,10 +23,10 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("glasses", "housewares", 1000, "May 2", "June 4")
 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
-VALUES ("speakers", "entertainment", 50100, "June 8", "")
+VALUES ("speakers", "entertainment", 50100, "June 8", "July 9")
 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
-VALUES
+VALUES ( "monitor", "office", 16018, "Oct 1", "Oct 31")
 
 
 
